@@ -1,9 +1,3 @@
-# V2M: Visual 2-Dimensional Mamba for Image Representation Learning
-
-This repository is the official implementation of **V2M: Visual 2-Dimensional Mamba for Image Representation Learning**
-
-The code is mainly based on Vision Mamba with corresponding modifications.
-
 ## Environments of training
 
 - Python 3.10.13
